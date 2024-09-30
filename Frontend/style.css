@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #sensors, #clients {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #sensors li, #clients li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  #sensors li:last-child, #clients li:last-child {
+    border-bottom: none;
+  }

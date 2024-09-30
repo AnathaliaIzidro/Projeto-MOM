@@ -1,0 +1,10 @@
+
+comando python broker.py para iniciar o Broker.
+comando python sensor.py para iniciar os Sensores.
+comando python client.py para iniciar os Clientes.
+
+Observações:
+
+
+pip install flask.
+pip install -r requirements.txt.
